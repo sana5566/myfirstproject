@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "905080912786",
+    "project_id": "businessgroundappupdated",
+    "storage_bucket": "businessgroundappupdated.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905080912786:android:e8434980e9fb61a82d5f4b",
+        "android_client_info": {
+          "package_name": "com.example.businessgroundapp_updated"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905080912786-v9soij1t7amgjk1tu2dt21cj34hksdp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.businessgroundapp_updated",
+            "certificate_hash": "d4adca1b82be7cbbcbb4bf2dac24fa1d7ddd3bd4"
+          }
+        },
+        {
+          "client_id": "905080912786-da0g61ediamn723enlmk8clvhhiqci8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA99rwLirXMSn9ShtI48Dtc9lfHKSw4fAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905080912786-da0g61ediamn723enlmk8clvhhiqci8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
